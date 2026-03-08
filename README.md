@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/shubhamx939">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=4%2B+Years+of+Backend+Engineering;GenAI+%26+LLM+Specialist;MLOps+%7C+Cloud+%7C+Microservices;Building+AI+that+drives+real+impact+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=5%2B+Years+of+Backend+Engineering;GenAI+%26+LLM+Specialist;MLOps+%7C+Cloud+%7C+Microservices;Building+AI+that+drives+real+impact+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -28,7 +28,7 @@ class ShubhamKumar:
         self.name        = "Shubham Kumar"
         self.role        = "Software Development Engineer"
         self.location    = "Bengaluru, Karnataka, India"
-        self.experience  = "4+ years"
+        self.experience  = "5+ years"
         self.focus       = ["Generative AI", "LLMs", "Backend Systems", "MLOps"]
         self.currently   = "Building LLM-powered transport management systems @ Awako.ai"
         self.education   = "B.E. Computer Science — VTU (2020)"
@@ -41,38 +41,57 @@ class ShubhamKumar:
 
 ## 💼 Work Experience
 
-<table>
-  <tr>
-    <td><b>🏢 Company</b></td>
-    <td><b>🎯 Role</b></td>
-    <td><b>📅 Period</b></td>
-    <td><b>🔑 Highlights</b></td>
-  </tr>
-  <tr>
-    <td><b>Awako.ai</b></td>
-    <td>Software Developer</td>
-    <td>Dec 2023 – Present</td>
-    <td>LLM backend services, FastAPI/Flask REST APIs, MLOps pipelines, data pipelines</td>
-  </tr>
-  <tr>
-    <td><b>Lymphomap Inc.</b></td>
-    <td>Back End Developer</td>
-    <td>Sep 2022 – Nov 2023</td>
-    <td>AI/ML healthcare analytics, LLM + NLP integration, AWS + Docker deployments</td>
-  </tr>
-  <tr>
-    <td><b>MachineHack</b></td>
-    <td>Software Engineer (GenAI)</td>
-    <td>May 2022 – Aug 2022</td>
-    <td>Hugging Face Transformers, prompt engineering, Streamlit AI dashboards</td>
-  </tr>
-  <tr>
-    <td><b>Exzatech Consulting</b></td>
-    <td>Associate Software Engineer</td>
-    <td>Mar 2021 – Apr 2022</td>
-    <td>Microservices architectures, SQL/NoSQL optimization, CI/CD pipelines</td>
-  </tr>
-</table>
+### 🟣 Awako.ai — Software Developer
+`Dec 2023 – Present` · Bengaluru, India
+
+> Building the backbone of an AI-driven transport management platform from the ground up.
+
+- 🤖 Architecting and developing **LLM-powered backend services** that automate fleet operations, logistics decisions, and transport routing using GPT-4 & LangChain
+- ⚡ Building and maintaining **high-performance REST APIs** with FastAPI & Flask, serving real-time requests across transport management workflows
+- 🔄 Designing and operating **MLOps pipelines** for continuous model retraining, versioning, and zero-downtime deployment of AI models into production
+- 🗃️ Engineering **scalable data pipelines** for ingestion, transformation, and storage of large-scale transport telemetry and logistics data
+- 🧠 Implementing **prompt engineering** strategies to optimize LLM output quality, reduce latency, and improve consistency across AI-driven responses
+- 🛠️ **Stack:** Python · FastAPI · Flask · LangChain · OpenAI · PostgreSQL · Redis · Docker · GCP
+
+---
+
+### 🔵 Lymphomap Inc. — Back End Developer
+`Sep 2022 – Nov 2023` · Bengaluru, India
+
+> Delivered AI/ML solutions for next-generation healthcare analytics in a fast-paced startup.
+
+- 🏥 Designed and developed **AI/ML-based healthcare analytics applications** processing large volumes of unstructured clinical and patient data
+- 🔬 Integrated **LLMs and NLP models** (BERT, BioBERT) into backend services to automate medical record analysis, entity extraction, and clinical summarization
+- ☁️ Deployed and managed **AI model infrastructure on AWS** using Docker containers, ensuring high availability and horizontal scalability
+- 🔍 Led development of **database solutions for AI-driven search** — building semantic search pipelines over medical records using vector embeddings
+- 📊 Built **data ingestion and ETL pipelines** for structured and unstructured healthcare datasets with strict data governance and compliance requirements
+- 🛠️ **Stack:** Python · Flask · Django · HuggingFace Transformers · AWS EC2/S3 · Docker · PostgreSQL · MongoDB
+
+---
+
+### 🟠 MachineHack — Software Engineer (Generative AI)
+`May 2022 – Aug 2022` · Bengaluru, India
+
+> Spearheaded GenAI product development at one of India's top AI/ML competition platforms.
+
+- 🤗 Built **GenAI-powered applications** using Hugging Face Transformers — including text generation, summarization, and classification pipelines
+- ✍️ Developed **automated prompt engineering workflows** to systematically evaluate and improve model response quality across different use cases
+- 📊 Created **interactive AI-driven dashboards** with Streamlit & Flask, enabling non-technical users to explore model outputs and experiment with GenAI tools
+- 🔧 Contributed to the **ML platform infrastructure** — setting up model serving endpoints and experiment tracking for internal AI research teams
+- 🛠️ **Stack:** Python · Hugging Face · GPT-3 · Streamlit · Flask · PyTorch
+
+---
+
+### 🟢 Exzatech Consulting — Associate Software Engineer
+`Mar 2021 – Apr 2022` · Bengaluru, India
+
+> Laid the engineering foundation — building robust, scalable backend systems from scratch.
+
+- 🏗️ Designed and implemented **microservices-based backend architectures**, decoupling monolithic systems into independently deployable services
+- 🗄️ Built and optimized **SQL & NoSQL database schemas** for high-traffic applications — including query tuning, indexing strategies, and caching layers with Redis
+- 🔁 Implemented **CI/CD pipelines** enabling automated testing, build, and deployment for backend services — reducing release cycles significantly
+- 🔌 Developed **RESTful APIs** consumed by web and mobile clients, with strong focus on performance, documentation, and versioning best practices
+- 🛠️ **Stack:** Python · Flask · MySQL · PostgreSQL · MongoDB · Redis · Docker · GitHub Actions
 
 ---
 
@@ -148,20 +167,31 @@ class ShubhamKumar:
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 What I Specialise In
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubhamx939&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamx939&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+| 🤖 Generative AI & LLMs | ⚙️ Backend Engineering | ☁️ Cloud & MLOps |
+|:---:|:---:|:---:|
+| Designing and deploying production-grade LLM pipelines using OpenAI, LangChain, and Hugging Face | Building high-performance REST APIs and microservices with FastAPI, Flask & Django | End-to-end model deployment on AWS & GCP using Docker and CI/CD automation |
+| Prompt engineering, RAG systems, and fine-tuning workflows for domain-specific AI | Scalable database design across SQL (PostgreSQL, MySQL) and NoSQL (MongoDB, Redis) | MLOps lifecycle management — model versioning, monitoring, and continuous retraining |
+| Integrating NLP models for entity extraction, summarization, and semantic search | Microservices architecture, API gateway design, and performance optimization | Infrastructure-as-code, containerization, and cloud-native deployment pipelines |
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamx939&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-</div>
+---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamx939&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=7C3AED&point=ffffff" alt="Activity Graph" width="95%"/>
-</div>
+## 📌 Career Highlights
+
+```
+🏆  5+ years building backend systems and AI-powered applications across 4 companies
+🤖  Shipped LLM-powered products in production — transport, healthcare, and trading domains
+🏥  Integrated NLP/AI models into healthcare workflows processing unstructured clinical data
+🚀  Architected GenAI pipelines from prompt design to model deployment at scale
+📦  Delivered microservices and REST APIs serving high-traffic, real-time applications
+☁️  Deployed AI infrastructure on AWS & GCP with Docker and automated CI/CD pipelines
+🔍  Built semantic search systems using vector embeddings for AI-driven data retrieval
+```
 
 ---
 
