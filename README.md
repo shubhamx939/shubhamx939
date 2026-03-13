@@ -143,7 +143,7 @@ class ShubhamKumar:
 
 ---
 
-### 🟠 MachineHack — Software Engineer (Generative AI)
+### 🟠 MachineHack Private Limited — Software Engineer (Generative AI)
 > Spearheaded GenAI product development at one of India's top AI/ML competition platforms.
 
 - 🤗 Built **GenAI-powered applications** using Hugging Face Transformers — text generation, summarization, and classification pipelines
@@ -154,7 +154,7 @@ class ShubhamKumar:
 
 ---
 
-### 🟢 Exzatech Consulting — Associate Software Engineer
+### 🟢 Qualcomm India Private Limited — Associate Software Engineer
 > Laid the engineering foundation — building robust, scalable backend systems from scratch.
 
 - 🏗️ Designed and implemented **microservices-based backend architectures**, decoupling monolithic systems into independently deployable services
